@@ -1,13 +1,7 @@
-
-
-
-
-
-
 /**
  * Quadruped
  */
-//% weight= 0 color=#0abcff icon="\uf207" block="Quadruped"
+//% weight= 0 color=#0abcff icon="\uf201" block="Quadruped"
 //% groups='["Set up","control","Additional steering gear control","Joint angle control"]'
 namespace Quadruped {
 
