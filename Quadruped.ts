@@ -276,6 +276,17 @@ namespace Quadruped {
         if (site = 1)
             Joint_SPI_Send()
     }
+    //###Joint Heartbeat||关节心跳
+    /**
+    * TODO:Joint Heartbeat
+    */
+    //% group="Joint angle control"
+    //% blockGap=8
+    //% blockId=Joint_Heartbeat block="Joint Heartbeat"
+    export function Joint_Heartbeat(): void {
+            Joint_SPI_Send()
+    }
+
 
     //###Ultrasound||超声波
     /**

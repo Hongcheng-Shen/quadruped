@@ -27,6 +27,7 @@
     "Quadruped.Line_return|block": "巡线返回值 | %X",
     "Quadruped.Voice|block": "语音识别开启",
     "Quadruped.Joint|block":"关节角度 | %j|大腿 %d|小腿 %x|侧腿 %c| %s",
+    "Quadruped.Joint_Heartbeat|block":"关节心跳",
     "gait.Trot|block": "小跑",
     "obstacle_t.Obstacle|block":"障碍",
     "obstacle_t.No_Obstacle|block":"无障碍",
