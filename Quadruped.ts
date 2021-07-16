@@ -510,17 +510,19 @@ namespace Quadruped {
 
     }
 
-    //###Voice recognition turned on||语音识别开启
-    /**
-    * IODO:Voice recognition turned on
-    */
-    //% subcategory=sensor
-    //% blockGap=8
-    //% blockId=sensor_Voicen block="Voice recognition turned on"
-    export function Voice(): void {
-        voice_rx()
-        voice_data()
-    }
+
+
+    // //###Voice recognition turned on||语音识别开启
+    // /**
+    // * IODO:Voice recognition turned on
+    // */
+    // //% subcategory=sensor
+    // //% blockGap=8
+    // //% blockId=sensor_Voicen block="Voice recognition turned on"
+    // export function Voice(): void {
+    //     voice_rx()
+    //     voice_data()
+    // }
 
 
 
